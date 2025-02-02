@@ -74,16 +74,6 @@
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=devZevitor&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-
+<p>Investindo no futuro!</p>
 
 </p>
