@@ -58,5 +58,9 @@
 <br/>
 
 <p>Investindo no futuro!</p>
+💈 **Projeto Atual: Sistema de Agendamento de Cabelereiros**
 
+🔗 **Organização:** [🌐 StyleManager](https://github.com/StyleManager)  
+🛠️ **API Principal:** [📦 managerSchedules](https://github.com/StyleManager/manegerSchedules)  
+🤖 **Microserviço de Chatbot:** [💬 chatbot-microservice](https://github.com/StyleManager/chatbot-microservice)
 </p>
