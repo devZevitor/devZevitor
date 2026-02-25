@@ -4,7 +4,7 @@
 Sou desenvolvedor full stack com foco em criação de APIs e aplicações web.  
 Tenho experiência com projetos próprios, arquitetura de sistemas, microsserviços e integração de tecnologias modernas, sempre buscando evoluir tecnicamente e construir soluções escaláveis.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU-LINKEDIN-AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zevitor/)
 
 ---
 
