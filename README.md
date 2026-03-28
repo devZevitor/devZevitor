@@ -54,7 +54,7 @@ Tenho experiência com projetos próprios, arquitetura de sistemas, microsservi�
 
 **EletroConsertos - Sistema de Gerenciamento de Pedidos**
 
-🔗 **Repositórios:** [Backend](LINK-BACKEND-REPO) | [Frontend](LINK-FRONTEND-REPO)  
+🔗 **Repositórios:** [Backend](https://github.com/devZevitor/Fatec-2sem-backend) | [Frontend](https://github.com/devZevitor/Fatec-2sem-frontend)  
 🌐 **Deploy:** [Aplicação Web](https://eletroconsertos.vercel.app/) | [API Docs](https://surprising-zulema-interdiciplinar-fatec-fc7cbde3.koyeb.app/docs)
 
 **Stack do projeto:**
