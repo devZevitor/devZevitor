@@ -2,7 +2,7 @@
 **Desenvolvedor Full Stack | Software Developer**
 
 Sou desenvolvedor full stack com foco em criação de APIs e aplicações web.  
-Tenho experiência com projetos próprios, arquitetura de sistemas, microsserviços e integração de tecnologias modernas, sempre buscando evoluir tecnicamente e construir soluções escaláveis.
+Tenho experiência com projetos próprios, arquitetura de sistemas e integração de tecnologias modernas, sempre buscando evoluir tecnicamente e construir soluções escaláveis.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zevitor/)
 
@@ -39,6 +39,8 @@ Tenho experiência com projetos próprios, arquitetura de sistemas, microsservi�
 ### 🔧 Uso Ocasional / Conhecimento
 
 <img align="left" alt="Next.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+<img align="left" alt="Spring Boot" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
@@ -52,7 +54,7 @@ Tenho experiência com projetos próprios, arquitetura de sistemas, microsservi�
 
 ## 💻 Projeto em Destaque
 
-**EletroConsertos - Sistema de Gerenciamento de Pedidos**
+**EletroConsertos — Sistema de Gerenciamento de Pedidos**
 
 🔗 **Repositórios:** [Backend](https://github.com/devZevitor/Fatec-2sem-backend) | [Frontend](https://github.com/devZevitor/Fatec-2sem-frontend)  
 🌐 **Deploy:** [Aplicação Web](https://eletroconsertos.vercel.app/) | [API Docs](https://surprising-zulema-interdiciplinar-fatec-fc7cbde3.koyeb.app/docs)
@@ -70,20 +72,27 @@ Tenho experiência com projetos próprios, arquitetura de sistemas, microsservi�
 
 **Sistema de Agendamento para Cabeleireiros**  
 🔗 **Organização:** [StyleManager](https://github.com/StyleManager)  
-🛠️ **API Principal:** [managerSchedules](https://github.com/StyleManager/manegerSchedules)  
+🛠️ **API:** [managerSchedules](https://github.com/StyleManager/manegerSchedules) | [Swagger Docs](https://managerschedule-production.up.railway.app/docs)
 
-> Projeto focado em APIs (em desenvolvimento).
+> API REST completa com autenticação JWT, testes unitários (Vitest) e documentação Swagger pública. Deploy no Railway. Frontend com integração de IA (Groq) em desenvolvimento.
+
+---
+
+**techub.api — Plataforma de Resumos Universitários**  
+🔗 **Organização:** [Interdiciplinar-3sem](https://github.com/Interdiciplinar-3sem)  
+🛠️ **API:** [techub.api](https://github.com/Interdiciplinar-3sem/techub.api)
+
+> Projeto interdisciplinar do 3º semestre da Fatec. API REST em Java 21 + Spring Boot + PostgreSQL + Docker. Desenvolvimento ágil com Scrum.
 
 ---
 
 ## 📌 Interesses Atuais
 
 - Arquitetura de software e design patterns
-- Microsserviços e APIs RESTful
+- APIs RESTful e integração com IA (Groq, agentes de desenvolvimento)
 - DevOps, CI/CD e infraestrutura cloud
-- Automação com Python e n8n
-- Aprimoramento em algoritmos e engenharia de software
-- Testes Unitarios e de integração
+- Testes unitários e de integração
+- Evolução contínua: graduação, pós-graduação e além
 
 📈 *Investindo no futuro, um projeto de cada vez.*
 
