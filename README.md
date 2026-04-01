@@ -1,8 +1,7 @@
 # José Victor
 **Desenvolvedor Full Stack | Software Developer**
 
-Sou desenvolvedor full stack com foco em criação de APIs e aplicações web.  
-Tenho experiência com projetos próprios, arquitetura de sistemas e integração de tecnologias modernas, sempre buscando evoluir tecnicamente e construir soluções escaláveis.
+Sou desenvolvedor de software com foco em criação de APIs e aplicações web. Tenho experiência com projetos próprios, arquitetura de sistemas e integração de tecnologias modernas — incluindo desenvolvimento assistido por IA com agentes e MCPs. Sempre buscando evoluir tecnicamente e construir soluções escaláveis.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zevitor/)
 
@@ -52,6 +51,21 @@ Tenho experiência com projetos próprios, arquitetura de sistemas e integraçã
 
 ---
 
+## 🤖 AI-Assisted Development
+
+Venho incorporando desenvolvimento assistido por IA ao meu fluxo, utilizando agentes, MCPs e ferramentas modernas para aumentar produtividade e acelerar entregas — sem abrir mão da construção de base técnica sólida.
+
+**Ferramentas e integrações:**
+- **OpenCode** – agente de codificação para automação, refatoração e geração de código
+- **Pencil** – prototipagem e análise de APIs integradas ao fluxo de desenvolvimento
+- **MCP Playwright** – automação e testes E2E com contexto
+- **MCP Context7** – enriquecimento de contexto para agentes
+- **Superpowers** – plugin para aumento de produtividade no desenvolvimento
+
+> Utilizo IA de forma estratégica, principalmente em contextos onde já possuo domínio técnico, mantendo desenvolvimento manual em cenários de aprendizado.
+
+---
+
 ## 💻 Projeto em Destaque
 
 **EletroConsertos — Sistema de Gerenciamento de Pedidos**
@@ -72,9 +86,9 @@ Tenho experiência com projetos próprios, arquitetura de sistemas e integraçã
 
 **Sistema de Agendamento para Cabeleireiros**  
 🔗 **Organização:** [StyleManager](https://github.com/StyleManager)  
-🛠️ **API:** [managerSchedules](https://github.com/StyleManager/manegerSchedules) | [Swagger Docs](https://managerschedule-production.up.railway.app/docs)
+🛠️ **API:** [managerSchedules](https://github.com/StyleManager/manegerSchedules) | [Swagger Docs](https://SEU-LINK-RENDER.onrender.com/docs)
 
-> API REST completa com autenticação JWT, testes unitários (Vitest) e documentação Swagger pública. Deploy no Railway. Frontend com integração de IA (Groq) em desenvolvimento.
+> API REST completa com autenticação JWT, testes unitários (Vitest) e documentação Swagger pública. Deploy no Render. Frontend em desenvolvimento.
 
 ---
 
