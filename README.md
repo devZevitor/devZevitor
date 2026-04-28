@@ -86,17 +86,17 @@ Venho incorporando desenvolvimento assistido por IA ao meu fluxo, utilizando age
 
 **Sistema de Agendamento para Cabeleireiros**  
 🔗 **Organização:** [StyleManager](https://github.com/StyleManager)  
-🛠️ **API:** [managerSchedules](https://github.com/StyleManager/manegerSchedules) | [Swagger Docs](https://SEU-LINK-RENDER.onrender.com/docs)
+🛠️ **Deploy-Em-Desenvolvimento:** [Aplicação Web](https://manegerschedule.vercel.app/) | [API Docs](https://managerschedule-v2.onrender.com/docs)
 
 > API REST completa com autenticação JWT, testes unitários (Vitest) e documentação Swagger pública. Deploy no Render. Frontend em desenvolvimento.
 
 ---
 
-**techub.api — Plataforma de Resumos Universitários**  
+**Resumify — Plataforma de Resumos Universitários**  
 🔗 **Organização:** [Interdiciplinar-3sem](https://github.com/Interdiciplinar-3sem)  
-🛠️ **API:** [techub.api](https://github.com/Interdiciplinar-3sem/techub.api)
+🛠️ **Deploy-Em-Desenvolvimento:** [Aplicação Web](https://resumify-n7.vercel.app/) | [API Docs](https://resumify-v1.onrender.com/docs)
 
-> Projeto interdisciplinar do 3º semestre da Fatec. API REST em Java 21 + Spring Boot + PostgreSQL + Docker. Desenvolvimento ágil com Scrum.
+> Projeto interdisciplinar do 3º semestre da Fatec. API REST em Java 21 + Spring Boot + PostgreSQL + Docker. Frontend React Typescript + tanstackQuery (Vite.js) Desenvolvimento ágil com Scrum.
 
 ---
 
